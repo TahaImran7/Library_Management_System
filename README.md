@@ -4,6 +4,14 @@ A Java-based desktop application built with Swing and Oracle SQL Database to man
 
 ---
 
+## AUTHOR Information
+
+- **Taha Imran**
+- **Email**: tahaimran315@gmail.com -- [Email Me](mailto:tahaimran315@gmail.com)
+- **LinkedIn**: www.linkedin.com/in/taha-imran-9a6987338 -- [Taha Imran](www.linkedin.com/in/taha-imran-9a6987338)
+
+---
+
 ## Technologies Used
 
 - **Java** (Core + OOP Concepts)
@@ -60,3 +68,6 @@ Tables include:
 1. **Clone the repository**
    ```bash
    git clone https://github.com/TahaImran7/Library_Management_System.git
+
+# 🤝 **Contributing**
+Feel free to fork the repo, suggest improvements, or raise issues. All contributions are welcome!
