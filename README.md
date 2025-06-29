@@ -47,11 +47,11 @@ A Java-based desktop application built with Swing and Oracle SQL Database to man
 ## Database Schema (Oracle SQL)
 
 Tables include:
-- `books(book_id, title, author, category, status)`
-- `members(member_id, name, contact)`
-- `transactions(transaction_id, book_id, member_id, issue_date, return_date)`
+- `books(book_id, title, author)`
+- `issue_details(student_name, roll_num, email, book, department, semester, issue_date, return_date)`
+- `return_details(student_name, roll_num, email, book, department, semester, issue_date, return_date)`
 
-> Ensure Oracle Database is running and tables are created before launching the app.
+> Ensure Oracle Database is running and tables are created before launching the app
 
 ---
 
